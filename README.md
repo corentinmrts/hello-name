@@ -1,2 +1,3 @@
 # hello-name
-Tuto Project
+
+Je m'appelle Corentin, je fais de mon mieux pour suivre ma légende personnelle. Osdi.
